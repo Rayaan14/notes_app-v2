@@ -2,6 +2,12 @@ $dark_gray: #2B2E2E;
 $light_gray: #C0C1C1;
 $my_blue: #01BCFF;
 
+@mixin bold_font {
+	font-family: "Brandon Grotesque","Helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
 #banner {
 	background-image: url(image_path("welcome_banner.png"));
 	background-size: cover;
