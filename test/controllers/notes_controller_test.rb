@@ -30,4 +30,5 @@ class NotesControllerTest < ActionDispatch::IntegrationTest
     created_at = time_ago_in_words(note.created_at)
     assert_not_nil created_at
   end
+  
 end
