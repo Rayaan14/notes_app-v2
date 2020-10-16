@@ -24,10 +24,10 @@ This project was deployed to Heroku, a cloud-based application platform, for web
 [Design Inspiration](https://github.com/mackenziechild/notenote)\
 [Styling Inspiration](https://www.w3schools.com/css/css_templates.asp)\
 [callout_background.jpg](https://www.123rf.com/)\
-[fast_icon.png](https://www.iconfinder.com/)\
-[free_icon.png](https://www.iconfinder.com/)\
+[fast_icon.png](https://www.iconfinder.com/icons/2191531/good_light_flash_fast_speed_best_icon)\
+[free_icon.png](https://www.iconfinder.com/icons/4263510/tag_free_price_icon)\
 [logo.svg](https://github.com/mackenziechild/notenote/blob/master/app/assets/images/logo.svg)\
-[pencil_icon.png](https://www.iconfinder.com/)\
+[pencil_icon.png](https://www.iconfinder.com/icons/3592815/pencil_compose_office_edit_create_writing_edit_file_icon)\
 [welcome_banner.png](https://www.createcultivate.com/)\
 [normalize.css.scss](https://necolas.github.io/normalize.css/)
 
